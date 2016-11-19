@@ -1,0 +1,7 @@
+{
+	"default": {
+		"port": "$PORT:5959",
+		"host": "0.0.0.0",
+		"securityLayer": "none"
+	}
+}
